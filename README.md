@@ -1,5 +1,4 @@
-- Tech <3.
-- I’m currently learning Web Development.
+yup
 
 <!---
 thekrixh/thekrixh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
